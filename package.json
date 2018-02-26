@@ -1,0 +1,38 @@
+{
+	"name": "cerebro-thingiverse",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "Francesco Saverio Cannizzaro (fcannizzaro)",
+	"keywords": [
+		"cerebro",
+		"cerebro-plugin",
+		"thingiverse"
+	],
+	"dependencies": {
+		"cerebro-tools": "^0.1.8",
+		"cerebro-ui": "^0.0.16",
+		"debounce": "^1.1.0",
+		"scrape-it": "^5.0.2"
+	},
+	"devDependencies": {
+		"cerebro-scripts": "0.0.25",
+		"webpack-cli": "^2.0.9"
+	},
+	"scripts": {
+		"start": "cerebro-scripts start",
+		"build": "cerebro-scripts build",
+		"test": "cerebro-scripts test",
+		"clear": "cerebro-scripts clear",
+		"prepublish": "yarn clear && yarn build"
+	},
+	"description": "Cerebro plugin to find things on thingiverse",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/fcannizzaro/cerebro-thingiverse.git"
+	},
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/fcannizzaro/cerebro-thingiverse/issues"
+	},
+	"homepage": "https://github.com/fcannizzaro/cerebro-thingiverse#readme"
+}
