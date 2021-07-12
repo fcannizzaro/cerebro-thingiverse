@@ -1,4 +1,5 @@
 src
+.idea
 node_modules
 screenshot.png
 yarn.lock

@@ -1,7 +1,7 @@
 {
 	"name": "cerebro-thingiverse",
-	"version": "1.0.2",
-	"main": "index.js",
+	"version": "1.0.3",
+	"main": "dist/index.js",
 	"author": "Francesco Saverio Cannizzaro (fcannizzaro)",
 	"keywords": [
 		"cerebro",
