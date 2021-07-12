@@ -1,6 +1,6 @@
 {
 	"name": "cerebro-thingiverse",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"main": "index.js",
 	"author": "Francesco Saverio Cannizzaro (fcannizzaro)",
 	"keywords": [
@@ -9,10 +9,8 @@
 		"thingiverse"
 	],
 	"dependencies": {
-		"cerebro-tools": "^0.1.8",
-		"cerebro-ui": "^0.0.16",
-		"debounce": "^1.1.0",
-		"scrape-it": "^5.0.2"
+		"axios": "^0.21.1",
+		"debounce": "^1.1.0"
 	},
 	"devDependencies": {
 		"cerebro-scripts": "0.0.25",
