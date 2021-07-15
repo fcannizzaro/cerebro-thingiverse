@@ -1,6 +1,8 @@
 # cerebro-thingiverse
 Cerebro plugin to find *things* on thingiverse
 
+![npm](https://img.shields.io/npm/v/cerebro-thingiverse?color=red)
+
 ![preview](https://raw.githubusercontent.com/fcannizzaro/cerebro-thingiverse/master/art/preview.gif)
 
 ## Usage
